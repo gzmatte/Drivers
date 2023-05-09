@@ -6,13 +6,13 @@ This installs the driver only, without software. Normally this won't affect noth
 # Headphones
 - Redragon Pandora | H350RGB
 - DOWNLOAD
-- 
+
 - VSG Arkan
 - DOWNLOAD
-- 
+
 - Redragon ZEUS 2 / X  |  H510/H510W/H510RGB
 - DOWNLOAD
-- 
+
 # Logitech Minimal Hub
 
 # Razer Synapse Debloater
