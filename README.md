@@ -5,15 +5,15 @@ This installs the driver only, without software. Normally this won't affect noth
 
 # Headphones
 - Redragon Pandora | H350RGB
-- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/1/Driver.zip
--
+> [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/1/Driver.zip
+
 - VSG Arkan 7.1
-- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/0/Driver.zip
+> [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/0/Driver.zip
 
 - Redragon ZEUS 2 / X  |  H510/H510W/H510RGB
-- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip
+> [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip
 
 # Logitech Minimal Hub
-- [DOWNLOAD]
+> [DOWNLOAD]
 # Razer Synapse Debloater
-- [DOWNLOAD]
+> [DOWNLOAD]
