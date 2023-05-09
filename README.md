@@ -5,10 +5,10 @@ This installs the driver only, without software. Normally this won't affect noth
 
 # Headphones
 - Redragon Pandora | H350RGB
-- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/Headphones/Driver.zip
+- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/1/Driver.zip
 -
 - VSG Arkan 7.1
-- [DOWNLOAD] 
+- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/0/Driver.zip
 
 - Redragon ZEUS 2 / X  |  H510/H510W/H510RGB
 - [DOWNLOAD] 
