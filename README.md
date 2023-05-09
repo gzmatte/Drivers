@@ -14,7 +14,7 @@ This installs the driver only, without software. Normally this won't affect noth
 > https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip
 
 # Logitech Minimal Hub
->
+> https://github.com/gzmatte/Debloated/releases/download/ghub/logitech.exe
 
 # Razer Synapse Debloater
 > 
