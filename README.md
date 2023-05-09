@@ -11,7 +11,7 @@ This installs the driver only, without software. Normally this won't affect noth
 - [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/0/Driver.zip
 
 - Redragon ZEUS 2 / X  |  H510/H510W/H510RGB
-- [DOWNLOAD] 
+- [DOWNLOAD] https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip
 
 # Logitech Minimal Hub
 - [DOWNLOAD]
