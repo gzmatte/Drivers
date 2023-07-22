@@ -1,7 +1,7 @@
 # Debloated Drivers
-Isn't that hard, download the zip for the driver, extract it, go to the windows version folder, (example: win10)> SoftwareDriver> Driver> this folder contains the .inf file.
-Works with VSG, Redragon & maybe other companies.
-This installs the driver only, without software. Normally this won't affect nothing.
+Isn't that hard, download the zip for the driver, extract it, go to the windows version folder, (example: win10)> SoftwareDriver> Driver> this folder contains the .inf file, i zipped this folder for you. (u can delete the x86 folder, if u're in 64bits.)
+Works with VSG, Redragon & others companies that uses a normal driver.
+This installs the driver only, without software. Normally this won't affect nothing, and give you a boost in performance.
 
 # Headphones
 - Redragon Pandora | H350RGB
