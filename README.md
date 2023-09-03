@@ -10,9 +10,9 @@ This installs the driver only, without software. Normally this won't affect noth
 
 - [Redragon ZEUS 2/X  |  H510/H510W/H510RGB](https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip)
 
+### Others
 
+- [Logitech Onboard Memory](https://github.com/gzmatte/Debloated/releases/download/3/logitech.exe)
 
-### [Logitech Onboard Memory](https://github.com/gzmatte/Debloated/releases/download/3/logitech.exe)
-
-### [Razer Synapse Debloater](https://github.com/gzmatte/Debloated/releases/download/4/Razer.bat)
+- [Razer Synapse Debloater](https://github.com/gzmatte/Debloated/releases/download/4/Razer.bat)
 
