@@ -1,5 +1,4 @@
 # Debloated Drivers
-My list of debloated drivers.
 
 This installs the driver only, without software. Normally this won't affect nothing, and give you a clean install.
 
