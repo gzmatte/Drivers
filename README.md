@@ -1,17 +1,11 @@
 ![DEBLOATDRIVERS](https://github.com/gzmatte/Drivers/assets/117684932/754ab7fa-56bb-4048-92c2-478e8d6b2b86)
 -----------
+A 7.1 Driver for your headphones.
+This should work with all USB headphones.
+[More information here](https://github.com/gzmatte/Drivers/assets/117684932/cd92a947-bf38-4072-bce4-19d2b759c1e0)
 
-This installs the driver only, without software. Normally this won't affect nothing, and give you a clean install.
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip)
 
-> For headphones: Isn't that hard to debloat, download the driver zip, extract & search the .inf file.
-
-
-# Headphones
-- [Redragon Pandora | H350RGB](https://github.com/gzmatte/Debloated/releases/download/1/Driver.zip) 
-
-- [VSG Arkan](https://github.com/gzmatte/Debloated/releases/download/0/Driver.zip)
-
-- [Redragon ZEUS 2/X  |  H510/H510W/H510RGB](https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip)
 
 ### Others
 
