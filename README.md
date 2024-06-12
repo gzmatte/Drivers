@@ -3,7 +3,7 @@
 
 This installs the driver only, without software & bloatware.
 
-> For headphones: Isn't that hard to debloat, download the driver zip, extract & search the .inf file.
+> For headphones: Isn't that hard to debloat, extract your driver zip and search the .inf file inside.
 
 
 # Headphones
